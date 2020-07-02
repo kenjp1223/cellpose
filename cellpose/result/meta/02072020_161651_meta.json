@@ -1,0 +1,1 @@
+{"Date": "2020-07-02 16:16:51.750243", "Imgs": ["sample.tif"], "model_type": "cyto", "channel_type": [0, 0], "diameter": 15, "cellprob_threshold": 0.2, "flow_threshold": false, "gpu": true, "duration": 142.978666305542}

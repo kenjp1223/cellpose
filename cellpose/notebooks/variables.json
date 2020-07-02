@@ -1,0 +1,1 @@
+{"model_type": "cyto","channel_type": [0,0],"diameter": 15,"cellprob_threshold": 0.2,"flow_threshold": false,"gpu": true}
